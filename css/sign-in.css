@@ -6,7 +6,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-   
 }
 
 body.login-bg {
@@ -65,7 +64,7 @@ body.index-bg{
 }
 
 .form-header p {
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
     font-weight: 400;
     font-size: 13px;
     color: #666666;
@@ -86,7 +85,7 @@ body.index-bg{
 }
 
 .input-email label {
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
     font-size: 12px;
     font-weight: 500;
     color: #4a4a4a;
@@ -100,7 +99,7 @@ body.index-bg{
     border: 1px solid #7a7a7a;
     border-radius: 12px; /* Smooth rounded shape matching screenshot */
     padding: 0 16px;
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
     font-size: 12px;
     outline: none;
     color: #000000;
@@ -116,7 +115,7 @@ body.index-bg{
     width: 100%;
     height: 40px;
     border-radius: 25px; /* Pill-shaped round corners */
-    font-family: 'Poppins', sans-serif;
+    font-family: poppins;
     font-size: 12px;
     font-weight: 500;
     cursor: pointer;
