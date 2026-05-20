@@ -22,6 +22,13 @@ body {
     background-attachment: fixed; 
 }
 
+.cover{
+    width: 100%;
+    height: 300px;
+
+    background-image: url();
+}
+
 #stardew {
     border-radius: 20px;
 }
@@ -90,7 +97,33 @@ h1 {
 .avatar:first-child {
 margin-left: 0; 
 }
+.description{
+    font-family: poppins;
+    background-color: cadetblue;
+    padding: 2px 5px;
+}
+
 .description img{
     width: 20px;
     height: auto;
+    vertical-align: middle;
+}
+hr{
+    width: 100%;
+    border: none;
+    height: 2px;
+    background-color: black;
+}
+h3{
+    color: black;
+    font-family: poppins;
+    font-size: 11px;
+}
+.details p{
+    color:black;
+    font-family: bricolage;
+    font-size: 13px;   
+}
+.details ul{
+    color: black;
 }
