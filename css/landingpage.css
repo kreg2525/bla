@@ -1,26 +1,26 @@
 @font-face {
     font-family: poppins;
-    src: url("/font/Poppins/Poppins-Regular.ttf");
+    src: url("../font/Poppins/Poppins-Regular.ttf");
 }
 @font-face {
     font-family: poppins2;
-    src: url("/font/Poppins/Poppins-SemiBold.ttf");
+    src: url("../font/Poppins/Poppins-SemiBold.ttf");
 }
 @font-face {
     font-family: league;
-    src: url("/font/League_Spartan/LeagueSpartan-VariableFont_wght.ttf");
+    src: url("../font/League_Spartan/LeagueSpartan-VariableFont_wght.ttf");
 }
 @font-face {
     font-family: brice;
-    src: url("/font/Brice-Regular-SemiExpanded/Brice-Regular-SemiExpanded.otf");
+    src: url("../font/Brice-Regular-SemiExpanded/Brice-Regular-SemiExpanded.otf");
 }
 @font-face {
     font-family: bricolage;
-    src: url("/font/bricolage/BricolageGrotesque-VariableFont_opsz\,wdth\,wght.ttf");
+    src: url("../font/bricolage/BricolageGrotesque-VariableFont_opsz,wdth,wght.ttf");
 }
 
 body {
-    background-image: url(/images/Landing\ Page.png);
+    background-image: url("../images/Landing Page.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

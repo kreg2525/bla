@@ -1,10 +1,10 @@
 @font-face {
     font-family: poppins;
-    src: url("/font/Poppins/Poppins-Regular.ttf");
+    src: url("../font/Poppins/Poppins-Regular.ttf");
 }
 @font-face {
     font-family: bricolage;
-    src: url("/font/bricolage/BricolageGrotesque-VariableFont_opsz\,wdth\,wght.ttf");
+    src: url("../font/bricolage/BricolageGrotesque-VariableFont_opsz,wdth,wght.ttf");
 }
 
 html, body {
@@ -15,7 +15,7 @@ html, body {
 }
 
 body {
-    background-image: url('/images/Event-page\ .svg');
+    background-image: url("../images/Event-page .svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; 
